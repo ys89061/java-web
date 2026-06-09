@@ -1,2 +1,3 @@
 git push test
-github desktop test
+github desktop push test
+github desktop pull test
